@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-a=4
-b=6
+def suma(a,b):
+    return a + b
 
-print(a+b)
+print(suma(5,6))
